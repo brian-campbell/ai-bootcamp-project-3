@@ -11,3 +11,4 @@ Tasks
 ** Parse/tokenize input
 ** Break input and match up with movie column data
 ** Formulate movie suggestion response, recommend movie(s)
+* Whisper - can we do speech to text?
