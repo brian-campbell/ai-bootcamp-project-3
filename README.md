@@ -4,11 +4,11 @@ Given movie review datasets that includes names, length, rating, etc., can we cr
 "Suggest an action movie made between 2018-2019 that has a rating of 8.0 or greater."
 
 Tasks
-* Download data
-* Import into Dataframe
-* Parse particular columns (i.e., dates into years, etc.)
-* Build chatbot app to collect user input
+* Download data (Vu)
+* Import into Dataframe (Vu)
+* Parse particular columns (i.e., dates into years, etc.) (Brian)
+* Build chatbot app to collect user input (Brian)
 ** Parse/tokenize input
 ** Break input and match up with movie column data
 ** Formulate movie suggestion response, recommend movie(s)
-* Whisper - can we do speech to text?
+* Whisper - can we do speech to text? (Brian)
