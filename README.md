@@ -95,3 +95,15 @@ Given movie review datasets that includes names, length, rating, etc., can we cr
 
 "Suggest an action movie made between 2018-2019 that has a rating of 8.0 or greater."
 
+
+## Results
+
+
+![Screenshot 2024-10-30 at 6 57 05 PM](https://github.com/user-attachments/assets/ee466caa-3fa2-4b22-96d0-57b92ed145b7)
+
+
+![Screenshot 2024-10-30 at 7 43 59 PM](https://github.com/user-attachments/assets/47bad0ca-6d5c-481d-b2de-fcec619c18ce)
+![Screenshot 2024-10-30 at 7 44 32 PM](https://github.com/user-attachments/assets/79e6b2f1-044a-4d7e-a157-3d8c5cba5149)
+
+
+![Screenshot 2024-10-30 at 8 31 20 PM](https://github.com/user-attachments/assets/8fd1765e-cfc2-44cd-83bc-f9d8f43c6f11)
