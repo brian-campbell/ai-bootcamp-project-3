@@ -105,5 +105,6 @@ Given movie review datasets that includes names, length, rating, etc., can we cr
 ![Screenshot 2024-10-30 at 7 43 59 PM](https://github.com/user-attachments/assets/47bad0ca-6d5c-481d-b2de-fcec619c18ce)
 ![Screenshot 2024-10-30 at 7 44 32 PM](https://github.com/user-attachments/assets/79e6b2f1-044a-4d7e-a157-3d8c5cba5149)
 
-
+### The screen capture below shows the app results of using Whisper to translate YouTube audio to text and querying TMDb for a movie recommendation. The second screen shows the output from the processing.
+![Screenshot 2024-10-30 at 7 09 21 PM](https://github.com/user-attachments/assets/aefa765a-b04a-45c9-aa18-c208b082d4af)
 ![Screenshot 2024-10-30 at 8 31 20 PM](https://github.com/user-attachments/assets/8fd1765e-cfc2-44cd-83bc-f9d8f43c6f11)
