@@ -45,6 +45,9 @@ Configure API Keys: Replace the placeholder keys in the code with your own OpenA
     openai_api_key = "your_openai_api_key"
     tmdb_api_key = "your_tmdb_api_key"
 
+## Files
+The core solution for this project can be found in the `chatbot_solution.ipynb` file. The other files were used by individual team members during the project and then code from them were combined in the final solution file. This is a Jupyter Notebook and requires an environment set up for running Jupyter Notebooks in order to test and run the solution.
+
 ## Usage
 
 ### Running the Bot
